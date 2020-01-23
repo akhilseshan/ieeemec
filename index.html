@@ -14,9 +14,22 @@
 
     <title>IEEE MEC SB</title>
 
+    <script>
+        window.onload = function() {
+            document.getElementById("loader").classList.add("se-pre-con");
+        }
+    </script>
 </head>
 
 <body>
+    <div id="loader">
+        <div class="stat animate">
+            <img src="images/ieeemec-loader.svg" alt="IEEEMEC-loader">
+        </div>
+        <div class="stat">
+            <img src="images/ieeemec-center.svg" alt="IEEEMEC-center">
+        </div>
+    </div>
     <!--Navigation bar-->
     <div>
         <nav class="navbar fixed-top navbar-expand-lg navbar-light">
@@ -37,7 +50,7 @@
                         <a class="nav-link" href="#events">EVENTS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">EXECOM</a>
+                        <a class="nav-link" href="/execom">EXECOM</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#updates">UPDATES</a>

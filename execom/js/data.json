@@ -1,0 +1,93 @@
+data = '[{
+"mainExecom": {
+    "chair": {
+        "name": "",
+        "photo": ""
+    },
+    "viceChair": {
+        "name": "",
+        "photo": ""
+    },
+    "secretary": {
+        "name": "",
+        "photo": ""
+    },
+    "linkRep": {
+        "name": "",
+        "photo": ""
+    },
+    "contentHead": {
+        "name": "",
+        "photo": ""
+    },
+    "designHead": {
+        "name": "",
+        "photo": ""
+    },
+    "treasurer": {
+        "name": "",
+        "photo": ""
+    },
+    "tc": {
+        "name": "",
+        "photo": ""
+    },
+    "ac": {
+        "name": "",
+        "photo": ""
+    }
+}
+},
+"society": {
+    "computer": {
+        "chair": {
+            "name": "",
+            "photo": ""
+        },
+        "secretary": {
+            "name": "",
+            "photo": ""
+        }
+    },
+    "sps": {
+        "chair": {
+            "name": "",
+            "photo": ""
+        },
+        "secretary": {
+            "name": "",
+            "photo": ""
+        }
+    },
+    "ias": {
+        "chair": {
+            "name": "",
+            "photo": ""
+        },
+        "secretary": {
+            "name": "",
+            "photo": ""
+        }
+    },
+    "pes": {
+        "chair": {
+            "name": "",
+            "photo": ""
+        },
+        "secretary": {
+            "name": "",
+            "photo": ""
+        }
+    },
+    "wie": {
+        "chair": {
+            "name": "",
+            "photo": ""
+        },
+        "secretary": {
+            "name": "",
+            "photo": ""
+        }
+    }
+}]
+';
