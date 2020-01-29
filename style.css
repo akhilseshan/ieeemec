@@ -80,6 +80,15 @@ html {
 .social-bottom {
     position: fixed;
     bottom: 0;
+    z-index: 1000;
+    background-color: white;
+    border-radius: 8%;
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.social-bottom i {
+    padding: 5%;
 }
 
 .page-footer {
