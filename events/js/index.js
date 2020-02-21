@@ -20,13 +20,15 @@ for(i=0;i<len;i+=3){
         cardBody.className = 'card-body';
         let cardTitle = document.createElement('h2');
         cardTitle.className = 'card-title';
-        cardTitle.innerText = 'Hello World'
+        cardTitle.innerText = events[j].eventName;
         let cardText = document.createElement('p');
         cardText.className = 'card-text';
+        cardText.innerText = events[j].eventDesc;
         let cardFooter = document.createElement('div');
         cardFooter.className = 'card-footer';
         let footerText = document.createElement('small');
         footerText.className = 'text-muted';
+        footerText.innerText = events[j].eventDate;
         cardFooter.appendChild(footerText);
         cardBody.appendChild(cardTitle);
         cardBody.appendChild(cardText);

@@ -97,6 +97,10 @@ html {
     color: white;
 }
 
+.card {
+    margin: 1%;
+}
+
 
 /*  SKEW CLOCKWISE  */
 
@@ -226,5 +230,8 @@ html {
 @media (max-width: 991px) {
     .hide-div {
         display: none;
+    }
+    h1 {
+        padding-top: 20%;
     }
 }
